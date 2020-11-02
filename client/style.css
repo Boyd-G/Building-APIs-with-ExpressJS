@@ -1,0 +1,22 @@
+body{
+    background-color: #717880;
+}
+.inputs{
+    
+   text-align: center;
+}
+.title {
+    font-family: 'Sarabun', sans-serif;
+    color: #c7dfff;
+    text-align: center;
+}
+
+.card-title{
+    text-align: left;
+}
+
+.card-body{
+    color: #c7dfff;
+    background-color: #807971;
+    text-align: center;
+}
